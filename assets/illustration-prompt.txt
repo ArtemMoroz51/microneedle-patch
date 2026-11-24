@@ -1,0 +1,6 @@
+Asset: patch-concept.jpg
+Method: built-in ImageGen tool, product-mockup mode.
+Purpose: illustrative concept of the proposed product, labelled as a visualization on the website.
+
+Prompt
+Use case: product-mockup. Create one premium photorealistic 3D product illustration for a Russian biotech landing page about an experimental dissolving microneedle patch. A single thin translucent milky-white square patch with very softly rounded corners, floating in a graceful three-quarter perspective above a pale mint green seamless surface. Its UPPER visible surface is densely filled with tiny short transparent conical microneedles in a precise regular array, visibly sharp but delicate and scientific. Show the whole patch generously filling the center-right of the frame, subtle clear polymer rim, soft shadows on the floor and diffuse daylight, muted dark emerald undertones. A small removed translucent protective film floats just beneath to the lower left. The patch has realistic polymer texture, not glass crystal. Editorial biotech product photography, sophisticated, serene, credible, extremely clean. Square composition, no people, no skin, no syringes, no packaging, no text, no logo, no watermark. This is a concept prototype illustration.
