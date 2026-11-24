@@ -79,7 +79,7 @@ contactForm.addEventListener("submit", (event) => {
   const values = new FormData(contactForm);
   const interestLabel =
     contactForm.elements.interest.selectedOptions[0].textContent;
-  const subject = `Микроигольный пластырь — ${interestLabel}`;
+  const subject = `Микроигольный пластырь · ${interestLabel}`;
   const body = [
     "Здравствуйте!",
     "",
